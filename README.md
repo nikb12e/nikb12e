@@ -13,15 +13,17 @@
 
 ---
 
-### Live projects
+### Open source
 
-| Project | What it is | Live |
+| Repository | What it is | Live |
 |---|---|---|
-| **English Lab** | English practice: all 196 irregular verbs with pronunciation, grammar drills and spaced repetition that brings back what you miss | [english.xtrslab.com](https://english.xtrslab.com) |
-| **Bios** | Visual biology learning app: 3D cell, organelles, 16 task types, oral exam practice and a live Arena | [bios.xtrslab.com](https://bios.xtrslab.com) |
-| **XTRSlab** | My portfolio of projects | [xtrslab.com](https://xtrslab.com) |
+| [**english-lab**](https://github.com/nikb12e/english-lab) | English practice app: all 196 irregular verbs, grammar drills, test mode, FSRS spaced repetition, Arena against bots | [english.xtrslab.com](https://english.xtrslab.com) |
+| [**bios**](https://github.com/nikb12e/bios) | Visual biology learning app: interactive 3D cell, animated explanations, 16 task types, daily training | [bios.xtrslab.com](https://bios.xtrslab.com) |
+| [**whoop-mcp**](https://github.com/nikb12e/whoop-mcp) | MCP server that gives AI assistants access to your WHOOP recovery, sleep, strain and workouts | Cloudflare Workers |
 
-Open source versions of my apps are published here as standalone builds: no API keys, no backend access, no private connectors. Clone, run, learn from them.
+The app repositories are standalone offline builds: no accounts, no API keys, no server, no private connectors. Clone, run, learn from them.
+
+More at [xtrslab.com](https://xtrslab.com).
 
 ### Stack
 
