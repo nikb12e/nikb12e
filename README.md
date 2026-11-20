@@ -17,11 +17,11 @@
 
 | Repository | What it is | Live |
 |---|---|---|
-| [**english-lab**](https://github.com/nikb12e/english-lab) | English practice app: all 196 irregular verbs, grammar drills, test mode, FSRS spaced repetition, Arena against bots | [english.xtrslab.com](https://english.xtrslab.com) |
-| [**bios**](https://github.com/nikb12e/bios) | Visual biology learning app: interactive 3D cell, animated explanations, 16 task types, daily training | [bios.xtrslab.com](https://bios.xtrslab.com) |
+| [**english-lab**](https://github.com/nikb12e/english-lab) | English practice app: all 196 irregular verbs, grammar drills, test mode, FSRS spaced repetition, Arena against bots, optional AI with your own key | [english.xtrslab.com](https://english.xtrslab.com) |
+| [**bios**](https://github.com/nikb12e/bios) | Visual biology learning app: interactive 3D cell, animated explanations, 16 task types, daily training, optional AI oral exam with your own key | [bios.xtrslab.com](https://bios.xtrslab.com) |
 | [**whoop-mcp**](https://github.com/nikb12e/whoop-mcp) | MCP server that gives AI assistants access to your WHOOP recovery, sleep, strain and workouts | Cloudflare Workers |
 
-The app repositories are standalone offline builds: no accounts, no API keys, no server, no private connectors. Clone, run, learn from them.
+The app repositories are standalone open source builds in English: no accounts, no server, no built in API keys, no private connectors. AI features are optional and run on your own OpenRouter, Anthropic or OpenAI key, stored only in your browser. Clone, run, learn from them.
 
 More at [xtrslab.com](https://xtrslab.com).
 
